@@ -4,6 +4,11 @@ Lide Cloud Repos
 Este repositorio está creado para integrar las versiones correctas de diferentes 
 librerias open source a nuestro framework y poder usarlas en nuestras aplicaciones.
 
+**Para más información:**
+
+- `Como instalar un paquete desde los repositorios de lide <https://github.com/dcanoh>`_
+- `Como crear mis propios paquetes de lide <https://github.com/dcanoh>`_
+
 =========================  ================================================================================  =========================
  Package Name                Description                                                                           Compatibility
 =========================  ================================================================================  =========================
@@ -20,5 +25,5 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
  xml      ``1.1.20``         XML support por lua language.                                                     ``windows`` ``linux``
  yaml     ``0.0.01``         This module is a Lua binding for Kirill Siminov's excellent LibYAML.              ``linux``
  zip      ``1.2.30``         LuaZip is a Lua extension library used to read files stored inside zip files.     ``windows`` ``linux``
- lfs      ``1.2.30``         LFS offers access the underlying directory structure and file attributes.		   ``windows`` ``linux``
+ lfs      ``1.4.20``         LFS offers access the underlying directory structure and file attributes.		   ``windows`` ``linux``
 =========================  ================================================================================  =========================

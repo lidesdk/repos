@@ -9,21 +9,35 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 - `Como instalar un paquete desde los repositorios de lide <https://github.com/dcanoh>`_
 - `Como crear mis propios paquetes de lide <https://github.com/dcanoh>`_
 
+.. note::
+
+  Las versiones descritas en este documento no corresponden efectivamente a una version oficial de dicha
+  librería en *algunos de los casos* ya que aveces realizamos adaptaciones para que funcionen correctamente en
+  todas las plataformas que lide soporta.
+
 ================  =============  =============  ================================================================================
-  Package            Windows        GNU/Linux     Description                                                                   
+  Package            Windows        Linux         Description                                                                   
 ================  =============  =============  ================================================================================
-  base64           ``5.1.00``     ``5.1.00``      Base64 is a base-64 transfer encoding library for Lua.                        
-  cjson            ``2.1.00``     ``2.1.00``      Lua CJSON provides JSON support for Lua.                                      
-  http             ``0.0.01``     ``0.0.01``      Add network support to Lide Framework.                                        
-  ltn12            ``1.0.30``     ``1.0.30``      The ltn12 namespace implements LTN012 Filters, sources and sinks.             
-  luasql           ``2.1.00``     ``2.1.00``      LuaSQL is a simple interface from Lua to a DBMS.                              
-  lub              ``1.1.00``     ``1.1.00``      Lubyk core library (provides autoloading, helpers).                           
-  md5              ``1.1.20``     ``1.1.20``      MD5 offers basic cryptographic facilities for Lua.                            
-  mime             ``1.0.20``     ``1.0.20``      Mime offers filters that apply and remove common content transfer encodings.  
-  socket           ``2.0.20``     ``2.0.20``      Network support for the Lua language:                                         
-  ssl              ``0.4.00``     ``0.4.00``      SSL module is part of luasec.                                                 
-  xml              ``1.1.20``     ``1.1.20``      XML support por lua language.                                                 
-  yaml             ``0.0.01``     ``not run``     This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
-  zip              ``1.2.30``     ``1.2.30``      LuaZip is a Lua extension library used to read files stored inside zip files. 
-  lfs              ``1.4.20``     ``1.4.20``      LFS offers access the underlying directory structure and file attributes.		
+  base64           ``5.1.00``     ``untested``      Base64 is a base-64 transfer encoding library for Lua.                        
+  cjson            ``2.1.00``     ``untested``      Lua CJSON provides JSON support for Lua.                                      
+  http             ``0.0.01``     ``untested``      Add network support to Lide Framework.                                        
+  ltn12            ``1.0.30``     ``untested``      The ltn12 namespace implements LTN012 Filters, sources and sinks.             
+  luasql           ``2.1.00``     ``untested``      LuaSQL is a simple interface from Lua to a DBMS.                              
+  lub              ``1.1.00``     ``untested``      Lubyk core library (provides autoloading, helpers).                           
+  md5              ``1.1.20``     ``untested``      MD5 offers basic cryptographic facilities for Lua.                            
+  mime             ``1.0.20``     ``untested``      Mime offers filters that apply and remove common content transfer encodings.  
+  socket           ``2.0.20``     ``untested``      Network support for the Lua language:                                         
+  ssl              ``0.4.00``     ``untested``      SSL module is part of luasec.                                                 
+  xml              ``1.1.20``     ``untested``      XML support por lua language.                                                 
+  yaml             ``not runs``   ``untested``      This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
+  zip              ``1.2.30``     ``1.2.30``        LuaZip is a Lua extension library used to read files stored inside zip files. 
+  lfs              ``1.4.20``     ``untested``      LFS offers access the underlying directory structure and file attributes.		
 ================  =============  =============  ================================================================================
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+Si desea sugerir que se alguna librería que usted considere que haga falta, hagánoslo en el siguiente link:
+
+`Recomendar una libreria <https://github.com/lidesdk/repos/issues/new>`_

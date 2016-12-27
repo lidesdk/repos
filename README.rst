@@ -17,8 +17,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
  mime						 Mime offers filters that apply and remove common content transfer encodings.
  socket						 Network support for the Lua language:
  ssl						 SSL module is part of luasec.
- xml						x
- yaml						x
+ xml						 XML support por lua language.
+ yaml						 This module is a Lua binding for Kirill Siminov's excellent LibYAML.
+ zip						 LuaZip is a Lua extension library used to read files stored inside zip files.
 =========================  =========================================================================
-
-

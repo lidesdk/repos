@@ -12,7 +12,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 .. note::
 
   Las versiones descritas en este documento no corresponden efectivamente a una version oficial de dicha
-  librería en *algunos de los casos* ya que aveces realizamos adaptaciones para que funcionen correctamente en
+  librería ya que **en algunos de los casos** realizamos adaptaciones para que funcionen correctamente en
   todas las plataformas que lide soporta.
 
 ================  =============  =============  ================================================================================
@@ -38,6 +38,6 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 ---------------------------------------------------------------------------------------------------------------------------------
 
 
-Si desea sugerir que se alguna librería que usted considere que haga falta, hagánoslo en el siguiente link:
+Si usted considera que hace falta alguna librería, propóngalo en el siguiente link:
 
 `Recomendar una libreria <https://github.com/lidesdk/repos/issues/new>`_

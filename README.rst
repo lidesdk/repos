@@ -6,8 +6,8 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 
 **Para más información:**
 
-- `Como instalar un paquete desde los repositorios de lide <https://github.com/dcanoh>`_
-- `Como crear mis propios paquetes de lide <https://github.com/dcanoh>`_
+- `Como instalar un paquete desde los repositorios de lide <http://lide-framework-es.readthedocs.io/es/latest/repositories.html#instalacion>`_
+- `Como crear mis propios paquetes de lide <http://lide-framework-es.readthedocs.io/es/latest/repositories.html#repositorios-propios>`_
 
 .. note::
 
@@ -29,7 +29,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   socket           ``2.0.20``     ``untested``      Network support for the Lua language:                                         
   ssl              ``0.4.00``     ``untested``      SSL module is part of luasec.                                                 
   xml              ``1.1.20``     ``untested``      XML support por lua language.                                                 
-  yaml             ``not runs``   ``untested``      This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
+  yaml               ``N/A``      ``untested``      This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
   zip              ``1.2.30``     ``1.2.30``        LuaZip is a Lua extension library used to read files stored inside zip files. 
   lfs              ``1.4.20``     ``untested``      LFS offers access the underlying directory structure and file attributes.		
 ================  =============  =============  ================================================================================

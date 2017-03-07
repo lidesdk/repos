@@ -6,7 +6,7 @@ ltn12
  author : Diego Nehab
  documentation: http://w3.impa.br/~diego/software/luasocket/ltn12.html
 
-The ltn12 namespace implements the ideas described in LTN012, Filters sources and sinks. This manual simply describes the functions. Please refer to the LTN for a deeper explanation of the functionality provided by this module.
+The ltn12 namespace implements the ideas described in LTN012, Filters sources and sinks.
 
 ================  ================  ==============
     Platform        Architecture       Version 

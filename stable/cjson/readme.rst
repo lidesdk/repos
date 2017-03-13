@@ -4,18 +4,16 @@ cjson
 .. code-block::
 
  author : Mark Pulford
- version: 0.0.01
+ version: 2.1.0
  website: http://www.kyne.com.au/~mark/software/lua-cjson.php
  documentation: https://www.kyne.com.au/~mark/software/lua-cjson-manual.html#_api_functions
 
 The Lua CJSON module provides JSON support for Lua.
 
 ===============  ==========  ==============
-  platform          arch        Version 
+  platform          arch        version
 ===============  ==========  ==============
-  Windows            x86        2.1.0
-  gnu/linux        x86 x64      2.1.0
-  android         x86 arm7      2.1.0
+  ``Windows``      ``x86``      ``2.1.0``
 ===============  ==========  ==============
 
 ----------------------------------------------------------------------------------------------------

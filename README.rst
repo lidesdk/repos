@@ -2,6 +2,7 @@
 .. _cjson:  stable/cjson/readme.rst
 .. _zlib:   stable/zlib/readme.rst
 .. _struct: stable/struct/readme.rst
+.. _lanes:  stable/lanes/readme.rst
 
 Lide Cloud Repos
 ================
@@ -31,7 +32,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   lub              ``1.1.00``     ``untested``     Lubyk core library (provides autoloading, helpers).                           
   md5              ``1.1.20``     ``untested``     MD5 offers basic cryptographic facilities for Lua.                            
   mime             ``1.0.20``     ``untested``     Mime offers filters that apply and remove common content transfer encodings.  
-  socket           ``2.0.20``     ``untested``     Network support for the Lua language:                                         
+  socket           ``2.0.2``      ``untested``     LuaSocket: Network support for the Lua language.
   ssl_             ``0.4``        ``untested``     SSL module is part of luasec.                                                 
   xml              ``1.1.20``     ``untested``     XML support por lua language.                                                 
   yaml               ``N/A``      ``untested``     This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
@@ -39,6 +40,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   lfs              ``1.4.20``     ``untested``     LFS offers access the underlying directory structure and file attributes.		
   zlib_            ``0.4``        ``untested``     This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.
   struct_          ``0.2.00``     ``untested``     This library offers basic facilities to convert Lua values to and from C structs.
+  lanes_           ``3.10.1``     ``untested``     Running multiple Lua states in parallel.
 ================  =============  =============  ================================================================================
 
 

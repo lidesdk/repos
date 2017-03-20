@@ -14,5 +14,5 @@ paquetes manualmente.
   Package            Windows        Linux         Description                                                                   
 ================  =============  =============  ================================================================================
   lide.http_       ``0.0.01``     ``untested``     HTTP and HTTPS requests support for lide.
-  lide.error_      ``0.0.01``     ''0.0.01``       Robust error handling implemented in Lua with Lide Framework.
+  lide.error_      ``0.0.01``      ``0.0.01``      Robust error handling implemented in Lua with Lide Framework.
 ================  =============  =============  ================================================================================

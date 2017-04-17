@@ -25,12 +25,12 @@ and OS X/PPC.
 The Windows binary uses MSVCR80.DLL for compatibility with LuaBinaries.
 
 
-instalación
-^^^^^^^^^^^
+Installing
+^^^^^^^^^^
 
-Para instalar ésta libreria recomiendo utilizar la linea de comandos de lide, usando ``lide install``.
+To install this library I recommend to use the command line of lide, using ``lide install``.
 
-*Así todas las dependencias se instalarán automaticamente:*
+*All dependencies will be installed automatically:*
 
 ``$ lide install alien``
 

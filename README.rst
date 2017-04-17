@@ -3,6 +3,7 @@
 .. _zlib:   stable/zlib/readme.rst
 .. _struct: stable/struct/readme.rst
 .. _lanes:  stable/lanes/readme.rst
+.. _alien:  stable/alien/readme.rst
 
 Lide Cloud Repos
 ================
@@ -41,6 +42,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   zlib_            ``0.4``        ``untested``     This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.
   struct_          ``0.2.00``     ``untested``     This library offers basic facilities to convert Lua values to and from C structs.
   lanes_           ``3.10.1``     ``untested``     Running multiple Lua states in parallel.
+  alien_           ``0.7.00``     ``untested``     A C FFI for Lua.
 ================  =============  =============  ================================================================================
 
 

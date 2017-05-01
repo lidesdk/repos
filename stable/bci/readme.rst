@@ -7,7 +7,6 @@ bci
 .. code-block::
 
  author : [Luiz Henrique de Figueiredo]
- version: 0.4
  website: http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/#lbci
  license: Pubic Domain
 
@@ -36,8 +35,9 @@ This code is hereby placed in the public domain.
 Please send comments, suggestions, and bug reports to lhf@tecgraf.puc-rio.br .
 
 -------------------------------------------------------------------------------
+.. code-block:: lua
 
-inspector library:
+-- inspector library:
  getconstant(f,i) 	 getinstruction(f,i) 	 setconstant(f,i,v) 
  getfunction(f,i) 	 getlocal(f,i) 
  getheader(f,i) 	 getupvalue(f,i) 

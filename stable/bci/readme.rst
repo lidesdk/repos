@@ -1,6 +1,3 @@
-.. _dcanoh: http://github.com/lidesdk/repos/dcanoh.rst>`.
-
-
 bci
 ===
 

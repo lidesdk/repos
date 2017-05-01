@@ -34,7 +34,7 @@ Please send comments, suggestions, and bug reports to lhf@tecgraf.puc-rio.br .
 -------------------------------------------------------------------------------
 .. code-block:: lua
 
--- inspector library:
+ -- inspector library:
  getconstant(f,i) 	 getinstruction(f,i) 	 setconstant(f,i,v) 
  getfunction(f,i) 	 getlocal(f,i) 
  getheader(f,i) 	 getupvalue(f,i) 

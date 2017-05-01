@@ -31,15 +31,12 @@ below. Read also test.lua and print.lua, which show the library in action.
 This code is hereby placed in the public domain.
 Please send comments, suggestions, and bug reports to lhf@tecgraf.puc-rio.br .
 
--------------------------------------------------------------------------------
 .. code-block:: lua
 
  -- inspector library:
  getconstant(f,i) 	 getinstruction(f,i) 	 setconstant(f,i,v) 
  getfunction(f,i) 	 getlocal(f,i) 
  getheader(f,i) 	 getupvalue(f,i) 
-
--------------------------------------------------------------------------------
 
 
 Installing

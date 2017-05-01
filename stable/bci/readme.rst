@@ -6,7 +6,7 @@ bci
 
 .. code-block::
 
- author : [Luiz Henrique de Figueiredo]
+ author : Luiz Henrique de Figueiredo
  website: http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/#lbci
  license: Pubic Domain
 

@@ -52,8 +52,8 @@ To install this library I recommend to use the command line of lide, using ``lid
 Credits
 ^^^^^^^
 
-bci is designed and implemented by `Luiz Henrique de Figueiredo<http://webserver2.tecgraf.puc-rio.br/~lhf>`_.
+bci is designed and implemented by `Luiz Henrique de Figueiredo <http://webserver2.tecgraf.puc-rio.br/~lhf>`_.
 
 License
 ^^^^^^^
-`Public Domain]<https://creativecommons.org/publicdomain/mark/1.0/>`_
+`Public Domain <https://creativecommons.org/publicdomain/mark/1.0/>`_

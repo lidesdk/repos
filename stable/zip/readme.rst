@@ -76,3 +76,8 @@ file:lines ()
     for line in file:lines() do ... end
 
     will iterate over all lines of the file. 
+
+luazip license
+--------------
+
+luazip uses the MIT license (the same as Lua).

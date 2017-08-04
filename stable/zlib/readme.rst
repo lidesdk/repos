@@ -6,7 +6,6 @@ zlib
  author : Tiago Dionizio
  version: 0.4
  website: http://luaforge.net/projects/lzlib/
- documentation: here
 
 This package provides a library to access zlib library functions and also to 
 read/write gzip files using an interface similar to the base io package.

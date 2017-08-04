@@ -5,6 +5,7 @@
 .. _lanes:  stable/lanes/readme.rst
 .. _alien:  stable/alien/readme.rst
 .. _bci:    stable/bci/readme.rst
+.. _zip:    stable/zip/readme.rst
 
 Lide Cloud Repos
 ================
@@ -37,8 +38,8 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   socket           ``2.0.2``      ``untested``     LuaSocket: Network support for the Lua language.
   ssl_             ``0.4``        ``untested``     SSL module is part of luasec.                                                 
   xml              ``1.1.20``     ``untested``     XML support por lua language.                                                 
-  yaml                              ``0.0.01``       This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
-  zip              ``1.2.30``     ``1.2.30``       LuaZip is a Lua extension library used to read files stored inside zip files. 
+  yaml                              ``0.0.01``     This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
+  zip_             ``1.2.30``     ``1.2.30``       LuaZip is a Lua extension library used to read files stored inside zip files. 
   lfs              ``1.4.20``     ``untested``     LFS offers access the underlying directory structure and file attributes.		
   zlib_            ``0.4``        ``untested``     This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.
   struct_          ``0.2.00``     ``untested``     This library offers basic facilities to convert Lua values to and from C structs.

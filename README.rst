@@ -1,11 +1,12 @@
-.. _ssl:    stable/ssl/readme.rst
-.. _cjson:  stable/cjson/readme.rst
-.. _zlib:   stable/zlib/readme.rst
-.. _struct: stable/struct/readme.rst
-.. _lanes:  stable/lanes/readme.rst
-.. _alien:  stable/alien/readme.rst
-.. _bci:    stable/bci/readme.rst
-.. _zip:    stable/zip/readme.rst
+.. _ssl:       stable/ssl/readme.rst
+.. _cjson:     stable/cjson/readme.rst
+.. _zlib:      stable/zlib/readme.rst
+.. _struct:    stable/struct/readme.rst
+.. _lanes:     stable/lanes/readme.rst
+.. _alien:     stable/alien/readme.rst
+.. _bci:       stable/bci/readme.rst
+.. _zip:       stable/zip/readme.rst
+.. _luacurl:   stable/luacurl/readme.rst
 
 Lide Cloud Repos
 ================
@@ -46,6 +47,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   lanes_           ``3.10.1``     ``untested``     Running multiple Lua states in parallel.
   alien_           ``0.7.00``     ``untested``     A C Foreing Function Interface for Lua.
   bci_             ``0.1.00``     ``untested``     A bytecode inspector library.
+  luacurl_         ``1.1.0``      ``untested``     LuaCURL is Lua 5.x compatible module providing Internet browsing capabilities based on the CURL library.
 ================  =============  =============  ================================================================================
 
 

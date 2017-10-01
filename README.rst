@@ -7,6 +7,7 @@
 .. _bci:       stable/bci/readme.rst
 .. _zip:       stable/zip/readme.rst
 .. _luacurl:   stable/luacurl/readme.rst
+.. _ltn12:     stable/ltn12/readme.rst
 
 Lide Cloud Repos
 ================
@@ -31,7 +32,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   base64           ``5.1.00``     ``untested``     Base64 is a base-64 transfer encoding library for Lua.                        
   cjson_           ``2.1.00``     ``untested``     Lua CJSON provides JSON support for Lua.                                      
   http             ``0.0.01``     ``untested``     Add network support to Lide Framework.                                        
-  ltn12            ``1.0.30``     ``untested``     The ltn12 namespace implements LTN012 Filters, sources and sinks.             
+  ltn12_           ``1.0.30``     ``untested``     The ltn12 namespace implements LTN012 Filters, sources and sinks.             
   luasql           ``2.1.00``     ``untested``     LuaSQL is a simple interface from Lua to a DBMS.                              
   lub              ``1.1.00``     ``untested``     Lubyk core library (provides autoloading, helpers).                           
   md5              ``1.1.20``     ``untested``     MD5 offers basic cryptographic facilities for Lua.                            

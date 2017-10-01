@@ -12,6 +12,7 @@
 .. _xml:       stable/xml/readme.rst
 .. _lub:       stable/lub/readme.rst
 .. _md5:       stable/md5/readme.rst
+.. _base64:    stable/base64/readme.rst
 
 Lide Cloud Repos
 ================
@@ -33,7 +34,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 ================  =============  =============  ================================================================================
   Package            Windows        Linux         Description                                                                   
 ================  =============  =============  ================================================================================
-  base64           ``5.1.00``     ``untested``     Base64 is a base-64 transfer encoding library for Lua.                        
+  base64_          ``5.1.00``     ``5.1.00``       Base64 is a base-64 transfer encoding library for Lua.                        
   cjson_           ``2.1.00``     ``untested``     Lua CJSON provides JSON support for Lua.                                      
   http             ``0.0.01``     ``untested``     Add network support to Lide Framework.                                        
   ltn12_           ``1.0.30``     ``untested``     The ltn12 namespace implements LTN012 Filters, sources and sinks.             
@@ -44,7 +45,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   socket           ``2.0.2``      ``untested``     LuaSocket: Network support for the Lua language.
   ssl_             ``0.4``        ``untested``     SSL module is part of luasec.                                                 
   xml_             ``1.1.20``     ``1.1.20``       XML support por lua language.                                                 
-  yaml                              ``0.0.01``     This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
+  yaml                             ``0.0.01``      This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
   zip_             ``1.2.30``     ``1.2.30``       LuaZip is a Lua extension library used to read files stored inside zip files. 
   lfs              ``1.4.20``     ``untested``     LFS offers access the underlying directory structure and file attributes.		
   zlib_            ``0.4``        ``untested``     This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.

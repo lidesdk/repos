@@ -8,6 +8,7 @@
 .. _zip:       stable/zip/readme.rst
 .. _luacurl:   stable/luacurl/readme.rst
 .. _ltn12:     stable/ltn12/readme.rst
+.. _mime:      stable/mime/readme.rst
 
 Lide Cloud Repos
 ================
@@ -36,7 +37,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   luasql           ``2.1.00``     ``untested``     LuaSQL is a simple interface from Lua to a DBMS.                              
   lub              ``1.1.00``     ``untested``     Lubyk core library (provides autoloading, helpers).                           
   md5              ``1.1.20``     ``untested``     MD5 offers basic cryptographic facilities for Lua.                            
-  mime             ``1.0.20``     ``untested``     Mime offers filters that apply and remove common content transfer encodings.  
+  mime_             ``1.0.20``     ``untested``     Mime offers filters that apply and remove common content transfer encodings.  
   socket           ``2.0.2``      ``untested``     LuaSocket: Network support for the Lua language.
   ssl_             ``0.4``        ``untested``     SSL module is part of luasec.                                                 
   xml              ``1.1.20``     ``untested``     XML support por lua language.                                                 

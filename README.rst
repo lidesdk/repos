@@ -11,6 +11,7 @@
 .. _mime:      stable/mime/readme.rst
 .. _xml:       stable/xml/readme.rst
 .. _lub:       stable/lub/readme.rst
+.. _md5:       stable/md5/readme.rst
 
 Lide Cloud Repos
 ================
@@ -38,7 +39,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   ltn12_           ``1.0.30``     ``untested``     The ltn12 namespace implements LTN012 Filters, sources and sinks.             
   luasql           ``2.1.00``     ``untested``     LuaSQL is a simple interface from Lua to a DBMS.                              
   lub_             ``1.1.00``     ``1.1.00``       Lubyk core library (provides autoloading, helpers).                           
-  md5              ``1.1.20``     ``untested``     MD5 offers basic cryptographic facilities for Lua.                            
+  md5_             ``1.1.20``     ``untested``     MD5 offers basic cryptographic facilities for Lua.                            
   mime_            ``1.0.20``     ``1.0.20``       Mime offers filters that apply and remove common content transfer encodings.  
   socket           ``2.0.2``      ``untested``     LuaSocket: Network support for the Lua language.
   ssl_             ``0.4``        ``untested``     SSL module is part of luasec.                                                 

@@ -3,18 +3,17 @@ mime
 
 .. code-block::
 
- author : Mark Pulford
- version: 2.1.0
- website: http://www.kyne.com.au/~mark/software/lua-cjson.php
- documentation: https://www.kyne.com.au/~mark/software/lua-cjson-manual.html#_api_functions
-
+ author : Diego Nehab
+ version: 1.0.20
+ website: http://w3.impa.br/~diego/software/luasocket/mime.html
+ 
 The mime namespace offers filters that apply and remove common content transfer encodings, such as Base64 and Quoted-Printable. It also provides functions to break text into lines and change the end-of-line convention. MIME is described mainly in RFC 2045, 2046, 2047, 2048, and 2049.
 
 ===============  ==========  ==============
   platform          arch        version
 ===============  ==========  ==============
-  ``Windows``      ``x86``      ``2.1.0``
-  ``Linux``        ``x64``      ``2.1.0``
+  ``Windows``      ``x86``      ``1.0.20``
+  ``Linux``        ``x64``      ``1.0.20``
 ===============  ==========  ==============
 
 ----------------------------------------------------------------------------------------------------

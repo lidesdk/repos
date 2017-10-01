@@ -1,5 +1,5 @@
-.. _lide.http:   http://github.com/dcanoh/lide.http
-.. _lide.error:  http://github.com/dcanoh/lide.error
+.. _http:   http://github.com/dcanoh/lide.http
+.. _error:  http://github.com/dcanoh/lide.error
 
 dcanoh development repository
 =============================

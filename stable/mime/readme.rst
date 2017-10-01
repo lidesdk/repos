@@ -31,7 +31,7 @@ To obtain the mime namespace, run:
 .. code-block::
 
  -- loads the MIME module and everything it requires
- local mime = require("mime")
+ mime = require("mime")
 
 -----------------------------------------------------------------------------------------------------
 

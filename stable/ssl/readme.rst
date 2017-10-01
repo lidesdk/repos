@@ -13,6 +13,7 @@ LuaSec is a binding for OpenSSL library to provide TLS/SSL communication. It tak
   platform          arch        Version 
 ===============  ==========  ==============
   ``Windows``     ``x86``       ``0.4``
+  ``Linux``       ``x64``       ``0.4``
 ===============  ==========  ==============
 
 ----------------------------------------------------------------------------------------------------

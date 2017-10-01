@@ -1,0 +1,9 @@
+[ssl]
+author    = Bruno Silvestre
+date      = 2016/12/25
+version   = 0.4
+windows   = x86:windows/x86/clibs/ssl.dll,windows/x86/lua/ssl.lua,windows/x86/lua/ssl/https.lua,windows/x86/runtime/libcrypto.dll,windows/x86/runtime/libssl.dll
+linux     = x86:linux/x86/clibs/ssl.so,linux/x86/lua/ssl.lua,windows/x86/lua/ssl/https.lua
+depends   = socket
+source    = https://github.com/brunoos/luasec
+mantainer = lide team

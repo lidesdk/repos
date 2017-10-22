@@ -34,20 +34,20 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 ================  =============  =============  ================================================================================
   Package            Windows        Linux         Description                                                                   
 ================  =============  =============  ================================================================================
-  base64_          ``5.1.00``     ``5.1.00``       Base64 is a base-64 transfer encoding library for Lua.                        
-  cjson_           ``2.1.00``     ``untested``     Lua CJSON provides JSON support for Lua.                                      
-  http             ``0.0.01``     ``untested``     Add network support to Lide Framework.                                        
-  ltn12_           ``1.0.30``     ``untested``     The ltn12 namespace implements LTN012 Filters, sources and sinks.             
+  base64_          ``5.1.00``     ``5.1.00``       A base-64 transfer encoding library for Lua.                        
+  cjson_           ``2.1.00``     ``2.1.0``        Provides JSON support for Lua.                                      
+  http             ``0.0.01``     ``untested``     Adds network support to Lide Framework.                                        
+  ltn12_           ``1.0.30``     ``1.0.3``        The ltn12 namespace implements LTN012 Filters, sources and sinks.             
   luasql           ``2.1.00``     ``untested``     LuaSQL is a simple interface from Lua to a DBMS.                              
-  lub_             ``1.1.00``     ``1.1.00``       Lubyk core library (provides autoloading, helpers).                           
-  md5_             ``1.1.20``     ``untested``     MD5 offers basic cryptographic facilities for Lua.                            
-  mime_            ``1.0.20``     ``1.0.20``       Mime offers filters that apply and remove common content transfer encodings.  
-  socket           ``2.0.2``      ``untested``     LuaSocket: Network support for the Lua language.
-  ssl_             ``0.4``        ``untested``     SSL module is part of luasec.                                                 
-  xml_             ``1.1.20``     ``1.1.20``       XML support por lua language.                                                 
-  yaml                             ``0.0.01``      This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
-  zip_             ``1.2.30``     ``1.2.30``       LuaZip is a Lua extension library used to read files stored inside zip files. 
-  lfs              ``1.4.20``     ``untested``     LFS offers access the underlying directory structure and file attributes.		
+  lub_             ``1.1.00``     ``1.1.0``        Lubyk core library (provides autoloading, helpers).                           
+  md5_             ``1.1.20``     ``1.2``          MD5 offers basic cryptographic facilities for Lua.                            
+  mime_            ``1.0.20``     ``1.0.3``        Mime offers filters that apply and remove common content transfer encodings.  
+  socket           ``2.0.2``      ``3.0``          LuaSocket: Network support for the Lua language.
+  ssl_             ``0.4``        ``0.4``          SSL module is part of luasec.                                                 
+  xml_             ``1.1.20``     ``1.1.2``        XML support por lua language.                                                 
+  yaml                            ``0.0.01``       This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
+  zip_             ``1.2.30``     ``1.2.3``        LuaZip is a Lua extension library used to read files stored inside zip files. 
+  lfs              ``1.4.20``     ``1.6.3``     LFS offers access the underlying directory structure and file attributes.		
   zlib_            ``0.4``        ``untested``     This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.
   struct_          ``0.2.00``     ``untested``     This library offers basic facilities to convert Lua values to and from C structs.
   lanes_           ``3.10.1``     ``untested``     Running multiple Lua states in parallel.

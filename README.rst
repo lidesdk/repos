@@ -25,11 +25,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 - `Como instalar un paquete desde los repositorios de lide <http://lide-framework-es.readthedocs.io/es/latest/repositories.html#instalacion>`_
 - `Como crear mis propios paquetes de lide <http://lide-framework-es.readthedocs.io/es/latest/repositories.html#repositorios-propios>`_
 
-.. note::
 
-  Las versiones descritas en este documento no corresponden efectivamente a una version oficial de dicha
-  librería ya que **en algunos de los casos** realizamos adaptaciones para que funcionen correctamente en
-  todas las plataformas que lide soporta.
 
 ================  =============  =============  ================================================================================
   Package            Windows        Linux         Description                                                                   
@@ -47,7 +43,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   xml_             ``1.1.20``     ``1.1.2``        XML support por lua language.                                                 
   yaml                            ``0.0.01``       This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
   zip_             ``1.2.30``     ``1.2.3``        LuaZip is a Lua extension library used to read files stored inside zip files. 
-  lfs              ``1.4.20``     ``1.6.3``     LFS offers access the underlying directory structure and file attributes.		
+  lfs              ``1.4.20``     ``1.6.3``        LFS offers access the underlying directory structure and file attributes.		
   zlib_            ``0.4``        ``untested``     This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.
   struct_          ``0.2.00``     ``untested``     This library offers basic facilities to convert Lua values to and from C structs.
   lanes_           ``3.10.1``     ``untested``     Running multiple Lua states in parallel.

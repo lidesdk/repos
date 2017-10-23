@@ -32,7 +32,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 ================  =============  =============  ================================================================================
   base64_          ``5.1.00``     ``5.1.00``       A base-64 transfer encoding library for Lua.                        
   cjson_           ``2.1.00``     ``2.1.0``        Provides JSON support for Lua.                                      
-  http             ``0.0.01``     ``untested``     Adds network support to Lide Framework.                                        
+  http             ``0.0.01``     ``0.0.01``       Adds network support to Lide Framework.                                        
   ltn12_           ``1.0.30``     ``1.0.3``        The ltn12 namespace implements LTN012 Filters, sources and sinks.             
   luasql           ``2.1.00``     ``untested``     LuaSQL is a simple interface from Lua to a DBMS.                              
   lub_             ``1.1.00``     ``1.1.0``        Lubyk core library (provides autoloading, helpers).                           

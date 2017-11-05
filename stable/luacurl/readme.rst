@@ -10,9 +10,10 @@ luacurl
 LuaCURL is Lua 5.x compatible module providing Internet browsing capabilities based on the CURL library. The module interface follows strictly the CURl architecture and is very easy to use if the programmer has already experience with CURL. The only LuaCURL luaopen_luacurl public function register itself to the Lua context defining a namespace curl with one constructor and some utility functions.
 
 ===============  ==========  ==============
-  platform          arch        Version 
+  platform         arch        Version 
 ===============  ==========  ==============
-  ``Windows``     ``x86``       ``1.1.0``
+ ``Windows``      ``x86``     ``1.1.0``
+ ``GNU/Linux``    ``x64``     ``1.1.0``
 ===============  ==========  ==============
 
 ----------------------------------------------------------------------------------------------------

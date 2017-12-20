@@ -12,7 +12,7 @@
 .. _xml:       stable/xml/readme.rst
 .. _lub:       stable/lub/readme.rst
 .. _md5:       stable/md5/readme.rst
-.. _base64:    stable/base64/readme.rst
+.. _base64:    https://github.com/lidesdk/base64/readme.rst
 
 Lide Cloud Repos
 ================

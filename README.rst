@@ -50,7 +50,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   alien_           ``0.7.00``                       ``untested``     A C Foreing Function Interface for Lua.
   bci_             ``0.1.00``                       ``untested``     A bytecode inspector library.
   luacurl_         ``1.1.0``                        ``untested``     LuaCURL is Lua 5.x compatible module providing Internet browsing capabilities based on the CURL library.
-================  =============                    =============  ================================================================================
+================  ===============================  =============  ================================================================================
 
 
 ---------------------------------------------------------------------------------------------------------------------------------

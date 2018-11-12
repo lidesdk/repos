@@ -13,6 +13,7 @@
 .. _lub:       stable/lub/readme.rst
 .. _md5:       stable/md5/readme.rst
 .. _base64:    https://github.com/lidesdk/base64/readme.rst
+.. _luacov:    https://github.com/lidesdk/luacov/readme.rst
 
 Lide Cloud Repos
 ================
@@ -50,6 +51,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   alien_           ``0.7.00``                       ``untested``     A C Foreing Function Interface for Lua.
   bci_             ``0.1.00``                       ``untested``     A bytecode inspector library.
   luacurl_         ``1.1.0``                        ``untested``     LuaCURL is Lua 5.x compatible module providing Internet browsing capabilities based on the CURL library.
+  luacov_          ``1.13.0``                       ``untested``     LuaCov is a simple coverage analyzer for Lua scripts.
 ================  ===============================  =============  ================================================================================
 
 

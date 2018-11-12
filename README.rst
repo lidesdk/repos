@@ -15,6 +15,7 @@
 .. _base64:    https://github.com/lidesdk/base64/readme.rst
 .. _luacov:    https://github.com/lidesdk/luacov/readme.rst
 .. _lunit:     https://github.com/lidesdk/lunit/readme.rst
+.. _bit32:     https://github.com/lidesdk/bit32/readme.rst
 
 Lide Cloud Repos
 ================
@@ -53,7 +54,8 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   bci_             ``0.1.00``                       ``untested``     A bytecode inspector library.
   luacurl_         ``1.1.0``                        ``untested``     LuaCURL is Lua 5.x compatible module providing Internet browsing capabilities based on the CURL library.
   luacov_          ``1.13.0``                       ``untested``     LuaCov is a simple coverage analyzer for Lua scripts.
-  lunit_		   ``0.5.2``                        ``untested``     Lunit is a unit testing framework for lua.
+  lunit_		       ``0.5.2``                        ``untested``     Lunit is a unit testing framework for lua.
+  bit32_           ``5.2.2``                        ``untested``     bit32 is the native Lua 5.2 bit manipulation library, backported to Lua 5.1
 ================  ===============================  =============  ================================================================================
 
 

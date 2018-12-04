@@ -29,8 +29,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 - `Como crear mis propios paquetes de lide <http://lide-framework-es.readthedocs.io/es/latest/repositories.html#repositorios-propios>`_
 
 
-================  =====================  ==================  ================================================================================
-   Package          Windows x86              Linux             Description                                                                   
+  Package           Windows                Linux               Description                                                                   
 ================  =====================  ==================  ================================================================================
   base64_          ``5.1.00``               ``5.1.00``         A base-64 transfer encoding library for Lua.                        
   cjson_           ``2.1.00``               ``2.1.0``          Provides JSON support for Lua.                                      

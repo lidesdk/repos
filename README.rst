@@ -28,8 +28,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 - `Como instalar un paquete desde los repositorios de lide <http://lide-framework-es.readthedocs.io/es/latest/repositories.html#instalacion>`_
 - `Como crear mis propios paquetes de lide <http://lide-framework-es.readthedocs.io/es/latest/repositories.html#repositorios-propios>`_
 
-
-  Package           Windows                Linux               Description                                                                   
+ 
 ================  =====================  ==================  ================================================================================
   base64_          ``5.1.00``               ``5.1.00``         A base-64 transfer encoding library for Lua.                        
   cjson_           ``2.1.00``               ``2.1.0``          Provides JSON support for Lua.                                      
@@ -51,7 +50,6 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   bci_             ``0.1.00``               ``untested``       A bytecode inspector library.
   luacurl_         ``1.1.0``                ``untested``       LuaCURL is Lua 5.x compatible module providing Internet browsing capabilities based on the CURL library.
   lfs              ``1.4.2``                ``1.6.3``          LFS offers access the underlying directory structure and file attributes.    
-================  =====================  ==================  ================================================================================
   luacov_          ``1.13.0``               ``untested``       LuaCov is a simple coverage analyzer for Lua scripts.
   lunit_           ``0.5.2``                ``untested``       Lunit is a unit testing framework for lua.
   bit32_           ``5.2.2``                ``untested``       bit32 is the native Lua 5.2 bit manipulation library, backported to Lua 5.1

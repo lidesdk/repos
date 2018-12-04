@@ -30,33 +30,33 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 
 
 
-================  ===============================  =============  ================================================================================
-  Package            Windows                          Linux          Description                                                                   
-================  ===============================  =============  ================================================================================
-  base64_          ``5.1.00``                       ``5.1.00``       A base-64 transfer encoding library for Lua.                        
-  cjson_           ``2.1.00``                       ``2.1.0``        Provides JSON support for Lua.                                      
-  http             ``0.0.01``                       ``0.0.01``       Adds network support to Lide Framework.                                        
-  ltn12_           ``1.0.30``                       ``1.0.3``        The ltn12 namespace implements LTN012 Filters, sources and sinks.             
-  luasql           ``2.1.00``                       ``untested``     LuaSQL is a simple interface from Lua to a DBMS.                              
-  lub_             ``1.1.00``                       ``1.1.0``        Lubyk core library (provides autoloading, helpers).                           
-  md5_             ``1.1.20``                       ``1.2``          MD5 offers basic cryptographic facilities for Lua.                            
-  mime_            ``1.0.20``                       ``1.0.3``        Mime offers filters that apply and remove common content transfer encodings.  
-  socket           ``2.0.2``                        ``3.0``          LuaSocket: Network support for the Lua language.
-  ssl_             ``0.4``                          ``0.4``          SSL module is part of luasec.                                                 
-  xml_             ``1.1.20``                       ``1.1.2``        XML support por lua language.                                                 
-  yaml                                              ``0.0.01``       This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
-  zip_             ``1.2.30``                       ``1.2.3``        LuaZip is a Lua extension library used to read files stored inside zip files. 
-  lfs              ``x86: 1.4.2`` ``x64: 1.6.2``    ``1.6.3``        LFS offers access the underlying directory structure and file attributes.		
-  zlib_            ``0.4``                          ``untested``     This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.
-  struct_          ``0.2.00``                       ``untested``     This library offers basic facilities to convert Lua values to and from C structs.
-  lanes_           ``3.10.1``                       ``untested``     Running multiple Lua states in parallel.
-  alien_           ``0.7.00``                       ``untested``     A C Foreing Function Interface for Lua.
-  bci_             ``0.1.00``                       ``untested``     A bytecode inspector library.
-  luacurl_         ``1.1.0``                        ``untested``     LuaCURL is Lua 5.x compatible module providing Internet browsing capabilities based on the CURL library.
-  luacov_          ``1.13.0``                       ``untested``     LuaCov is a simple coverage analyzer for Lua scripts.
-  lunit_		       ``0.5.2``                        ``untested``     Lunit is a unit testing framework for lua.
-  bit32_           ``5.2.2``                        ``untested``     bit32 is the native Lua 5.2 bit manipulation library, backported to Lua 5.1
-================  ===============================  =============  ================================================================================
+================  ===============================  ================  ================================================================================
+  Package            Windows x86                     Linux             Description                                                                   
+================  ===============================  ================  ================================================================================
+  base64_          ``5.1.00``                       ``5.1.00``         A base-64 transfer encoding library for Lua.                        
+  cjson_           ``2.1.00``                       ``2.1.0``          Provides JSON support for Lua.                                      
+  http             ``0.0.01``                       ``0.0.01``         Adds network support to Lide Framework.                                        
+  ltn12_           ``1.0.30``                       ``1.0.3``          The ltn12 namespace implements LTN012 Filters, sources and sinks.             
+  luasql           ``2.1.00``                       ``untested``       LuaSQL is a simple interface from Lua to a DBMS.                              
+  lub_             ``1.1.00``                       ``1.1.0``          Lubyk core library (provides autoloading, helpers).                           
+  md5_             ``1.1.20``                       ``1.2``            MD5 offers basic cryptographic facilities for Lua.                            
+  mime_            ``1.0.20``                       ``1.0.3``          Mime offers filters that apply and remove common content transfer encodings.  
+  socket           ``2.0.2``                        ``3.0``            LuaSocket: Network support for the Lua language.
+  ssl_             ``0.4``                          ``0.4``            SSL module is part of luasec.                                                 
+  xml_             ``1.1.20``                       ``1.1.2``          XML support por lua language.                                                 
+  yaml                                              ``0.0.01``         This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
+  zip_             ``1.2.30``                       ``1.2.3``          LuaZip is a Lua extension library used to read files stored inside zip files. 
+  lfs              ``x86: 1.4.2``                   ``1.6.3``          LFS offers access the underlying directory structure and file attributes.		
+  zlib_            ``0.4``                          ``untested``       This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.
+  struct_          ``0.2.00``                       ``untested``       This library offers basic facilities to convert Lua values to and from C structs.
+  lanes_           ``3.10.1``                       ``untested``       Running multiple Lua states in parallel.
+  alien_           ``0.5.0``                        ``untested``       A C Foreing Function Interface for Lua.
+  bci_             ``0.1.00``                       ``untested``       A bytecode inspector library.
+  luacurl_         ``1.1.0``                        ``untested``       LuaCURL is Lua 5.x compatible module providing Internet browsing capabilities based on the CURL library.
+  luacov_          ``1.13.0``                       ``untested``       LuaCov is a simple coverage analyzer for Lua scripts.
+  lunit_		       ``0.5.2``                        ``untested``       Lunit is a unit testing framework for lua.
+  bit32_           ``5.2.2``                        ``untested``       bit32 is the native Lua 5.2 bit manipulation library, backported to Lua 5.1
+================  ===============================  ================  ================================================================================
 
 
 ---------------------------------------------------------------------------------------------------------------------------------

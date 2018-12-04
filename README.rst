@@ -45,7 +45,6 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   xml_             ``1.1.20``               ``1.1.2``          XML support por lua language.                                                 
   yaml             ``---``                  ``0.0.01``         This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
   zip_             ``1.2.30``               ``1.2.3``          LuaZip is a Lua extension library used to read files stored inside zip files. 
-  lfs              ``1.4.2``                ``1.6.3``          LFS offers access the underlying directory structure and file attributes.		
   zlib_            ``0.4``                  ``untested``       This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.
   struct_          ``0.2.00``               ``untested``       This library offers basic facilities to convert Lua values to and from C structs.
   lanes_           ``3.10.1``               ``untested``       Running multiple Lua states in parallel.
@@ -55,6 +54,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   luacov_          ``1.13.0``               ``untested``       LuaCov is a simple coverage analyzer for Lua scripts.
   lunit_		       ``0.5.2``                ``untested``       Lunit is a unit testing framework for lua.
   bit32_           ``5.2.2``                ``untested``       bit32 is the native Lua 5.2 bit manipulation library, backported to Lua 5.1
+  lfs              ``1.4.2``                ``1.6.3``          LFS offers access the underlying directory structure and file attributes.    
 ================  =====================  ================  ================================================================================
 
 

@@ -51,12 +51,16 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   alien_           ``0.5.0``                ``untested``       A C Foreing Function Interface for Lua.
   bci_             ``0.1.00``               ``untested``       A bytecode inspector library.
   luacurl_         ``1.1.0``                ``untested``       LuaCURL is Lua 5.x compatible module providing Internet browsing capabilities based on the CURL library.
-  luacov_          ``1.13.0``               ``untested``       LuaCov is a simple coverage analyzer for Lua scripts.
-  lunit_		       ``0.5.2``                ``untested``       Lunit is a unit testing framework for lua.
-  bit32_           ``5.2.2``                ``untested``       bit32 is the native Lua 5.2 bit manipulation library, backported to Lua 5.1
   lfs              ``1.4.2``                ``1.6.3``          LFS offers access the underlying directory structure and file attributes.    
 ================  =====================  ==================  ================================================================================
 
+================  =====================  ==================  ================================================================================
+  Package           Windows x86              Linux             Description
+================  =====================  ==================  ================================================================================
+  luacov_          ``1.13.0``               ``untested``       LuaCov is a simple coverage analyzer for Lua scripts.
+  lunit_           ``0.5.2``                ``untested``       Lunit is a unit testing framework for lua.
+  bit32_           ``5.2.2``                ``untested``       bit32 is the native Lua 5.2 bit manipulation library, backported to Lua 5.1
+================  =====================  ==================  ================================================================================
 
 ---------------------------------------------------------------------------------------------------------------------------------
 

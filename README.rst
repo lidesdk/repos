@@ -55,8 +55,6 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 ================  =====================  ==================  ================================================================================
 
 ================  =====================  ==================  ================================================================================
-  Package           Windows x86              Linux             Description
-================  =====================  ==================  ================================================================================
   luacov_          ``1.13.0``               ``untested``       LuaCov is a simple coverage analyzer for Lua scripts.
   lunit_           ``0.5.2``                ``untested``       Lunit is a unit testing framework for lua.
   bit32_           ``5.2.2``                ``untested``       bit32 is the native Lua 5.2 bit manipulation library, backported to Lua 5.1

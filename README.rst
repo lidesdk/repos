@@ -44,7 +44,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   socket           ``2.0.2``                        ``3.0``            LuaSocket: Network support for the Lua language.
   ssl_             ``0.4``                          ``0.4``            SSL module is part of luasec.                                                 
   xml_             ``1.1.20``                       ``1.1.2``          XML support por lua language.                                                 
-  yaml                                              ``0.0.01``         This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
+  yaml             ``---``                          ``0.0.01``         This module is a Lua binding for Kirill Siminov's excellent LibYAML.          
   zip_             ``1.2.30``                       ``1.2.3``          LuaZip is a Lua extension library used to read files stored inside zip files. 
   lfs              ``x86: 1.4.2``                   ``1.6.3``          LFS offers access the underlying directory structure and file attributes.		
   zlib_            ``0.4``                          ``untested``       This package provides a library to access zlib library functions and also to read/write gzip files using an interface similar to the base io package.

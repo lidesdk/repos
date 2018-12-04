@@ -28,7 +28,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 - `Como instalar un paquete desde los repositorios de lide <http://lide-framework-es.readthedocs.io/es/latest/repositories.html#instalacion>`_
 - `Como crear mis propios paquetes de lide <http://lide-framework-es.readthedocs.io/es/latest/repositories.html#repositorios-propios>`_
 
- ================  =====================  ================================================================================
+================  =====================  ================================================================================
   base64_          ``5.1.00``               A base-64 transfer encoding library for Lua.                        
   cjson_           ``2.1.00``               Provides JSON support for Lua.                                      
   http             ``0.0.01``               Adds network support to Lide Framework.                                        

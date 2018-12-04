@@ -3,7 +3,7 @@
 .. _zlib:      stable/zlib/readme.rst
 .. _struct:    stable/struct/readme.rst
 .. _lanes:     stable/lanes/readme.rst
-.. _alien:     stable/alien/readme.rst
+.. _alien:     https://github.com/lidesdk/alien/readme.rst
 .. _bci:       stable/bci/readme.rst
 .. _zip:       stable/zip/readme.rst
 .. _luacurl:   stable/luacurl/readme.rst

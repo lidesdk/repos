@@ -3,7 +3,7 @@
 .. _zlib:      stable/zlib/readme.rst
 .. _struct:    stable/struct/readme.rst
 .. _lanes:     stable/lanes/readme.rst
-.. _alien:     https://github.com/lidesdk/alien/readme.rst
+.. _alien:     https://github.com/lidesdk/alien
 .. _bci:       stable/bci/readme.rst
 .. _zip:       stable/zip/readme.rst
 .. _luacurl:   stable/luacurl/readme.rst
@@ -16,6 +16,10 @@
 .. _luacov:    https://github.com/lidesdk/luacov/readme.rst
 .. _lunit:     https://github.com/lidesdk/lunit/readme.rst
 .. _bit32:     https://github.com/lidesdk/bit32/readme.rst
+.. _loop:      https://github.com/lidesdk/loop
+.. _fbclient:  https://github.com/lidesdk/fbclient
+.. _lide.http: https://github.com/dcanoh/lide.http
+
 
 Lide Cloud Repos
 ================
@@ -31,7 +35,7 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
 ================  =====================  ================================================================================
   base64_          ``5.1.00``               A base-64 transfer encoding library for Lua.                        
   cjson_           ``2.1.00``               Provides JSON support for Lua.                                      
-  http             ``0.0.01``               Adds network support to Lide Framework.                                        
+  lide.http_        ``0.2.1``               Adds network support to Lide Framework.                                        
   ltn12_           ``1.0.30``               The ltn12 namespace implements LTN012 Filters, sources and sinks.             
   luasql           ``2.1.00``               LuaSQL is a simple interface from Lua to a DBMS.                              
   lub_             ``1.1.00``               Lubyk core library (provides autoloading, helpers).                           
@@ -52,6 +56,8 @@ librerias open source a nuestro framework y poder usarlas en nuestras aplicacion
   luacov_          ``1.13.0``               LuaCov is a simple coverage analyzer for Lua scripts.
   lunit_           ``0.5.2``                Lunit is a unit testing framework for lua.
   bit32_           ``5.2.2``                bit32 is the native Lua 5.2 bit manipulation library, backported to Lua 5.1
+  loop_            ``2.3.0``                Different models of object-oriented programming for the Lua language.
+  fbclient_        ``0.5.0``                Connect Lua with Firebird Relational Database.
 ================  =====================  ================================================================================
 
 ---------------------------------------------------------------------------------------------------------------------------------
